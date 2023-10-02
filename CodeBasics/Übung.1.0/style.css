@@ -1,0 +1,70 @@
+.navbar {
+    background-color: yellow;
+    height: 150px;
+    width: 100%;
+    position: fixed;
+    margin-top: 50px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+
+.Text {
+    background-color: lightskyblue;
+    display: flex;
+    height: 300px;
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 20px;
+    position: relative; 
+
+}
+
+.text1  {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.lila-div {
+    width: 50px;
+    height: 50px;
+    background-color: purple;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+.box1 {
+    background: green;
+    height: 40px;
+    width: 40px;
+    margin: 20px;
+    margin-top: 70px;
+}
+
+
+.box2 {
+    background: green;
+    height: 40px;
+    width: 40px;
+    margin: 20px;
+    margin-top: 70px;
+}
+
+.box3 {
+    background: green;
+    height: 40px;
+    width: 40px;
+    margin: 20px;
+    margin-top: 70px;
+}
+
+.orange {
+    background: orange;
+    height: 100px;
+    width: 160px;
+    position: absolute; 
+    bottom: 0; 
+    right: 0; 
+}
