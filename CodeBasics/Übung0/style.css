@@ -16,10 +16,10 @@
     width: 400px;
     margin-top: 20px;
     margin-left: 20px;
-    position: relative; 
+    position: relative;
 }
 
-.text1  {
+.text1 {
     margin-top: 20px;
     margin-left: 20px;
 }
@@ -62,7 +62,7 @@
     background: orange;
     height: 100px;
     width: 160px;
-    position: absolute; 
-    bottom: 0; 
-    right: 0; 
+    position: absolute;
+    bottom: 0;
+    right: 0;
 }
