@@ -1,0 +1,44 @@
+.navbar {
+  background-color: rgb(255, 255, 255);
+  height: 80px;
+  width: 70%;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  border: 2px solid #000;
+  padding: 10px;
+}
+
+.box1,
+.box2,
+.box3 {
+  display: inline-block;
+  background: green;
+  height: 20px;
+  width: 40px;
+  margin: 20px;
+
+}
+
+.boxGross {
+  position: relative;
+  background: aqua;
+  height: 400px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* Platz zwischen den Elementen */
+}
+
+.box4, .box5 {
+  background: green;
+  height: 20px;
+  width: 40px;
+}
+
+.box5 {
+  background: black;
+  align-self: flex-end; /* Am Ende der flexiblen Box ausrichten (rechts unten) */
+}
