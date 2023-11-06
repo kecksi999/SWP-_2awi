@@ -24,3 +24,40 @@
     z-index: 1;
 }
 
+.orange-box {
+    width: 400px;
+    height: 400px;
+    background-color: orange;
+    position: relative;
+  }
+  
+
+  .green-box,
+  .black-box {
+    width: 200px;
+    height: 300px;
+    position: absolute;
+  }
+  
+.blue {
+    background-color: black;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    bottom: 1;
+    right: 0;
+  }
+  
+  .green-box {
+    background-color: green;
+    height: 300px;
+    width: 200px;
+  }
+  
+  .black-box {
+    background-color: blue;
+    height: 300px;
+    width: 200px;
+    top: 0;
+    right: 0;
+  }
