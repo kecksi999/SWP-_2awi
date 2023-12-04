@@ -1,0 +1,64 @@
+.navbar {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    height: 200px;
+    background-color: darkred;
+    padding: 10px;
+    font-family: "ORF ON",Arial,Helvetica,Lucida Sans Unicode,Lucida Grande,sans-serif; 
+    font-feature-settings: "liga", "kern" 
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  ul li {
+    margin-bottom: 5px;
+  }
+  
+  ul.level-1 li,
+  ul.level-3 li {
+    display: inline-block;
+    margin-right: 10px;
+    color: white;
+  }
+  
+  ul.level-2 img {
+    width: 100px;
+    height: auto;
+    background-color: #c50000;
+  }
+  
+  ul.level-3 {
+    background-color: #800000;
+    padding: 5px;
+  }
+  
+  ul.level-3 li {
+    display: inline-block;
+    margin-right: 10px;
+    color: white;
+  }
+  
+  .glocke {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  ul.level-3 .notification img {
+    width: 20px;
+    height: auto;
+    z-index: 9999;
+  }
+
+  .text {
+    background-color: white !important;
+    height: 400px;
+    width: 50%;
+    margin-top: -200px;
+    margin-left: 10%;
+    position: relative;
+  }
