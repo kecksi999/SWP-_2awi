@@ -1,7 +1,7 @@
 let countLessThanOrEqual12 = 0;
 let countGreaterThan12 = 0;      // zählt die zahlen die kleiner bzw größer als 12 sind
 
-for (let i = 0; i < 10; i++) {
+for (let count = 0; count < 10; count++) {
   const randomNumber = Math.floor(Math.random() * 11) + 5;   // sozusagen zufallsgenerator von 5 bis 15
 
   if (randomNumber > 12) {
