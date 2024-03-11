@@ -10,3 +10,4 @@ function invertiereBitfolge(bitfolge) {
 var input = "000111000";
 var output = invertiereBitfolge(input);
 console.log(output); 
+    
