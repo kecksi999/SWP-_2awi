@@ -5,4 +5,4 @@ let umgekehrt = "";
 for (let i = Aufteilung.length - 1; i >= 0; i--) {
     umgekehrt += Aufteilung[i] + " ";
 }
-console.log(umgekehrt.trim());
+console.log(umgekehrt);
