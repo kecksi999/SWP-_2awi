@@ -1,4 +1,5 @@
 public class bedingungen_operatoren {
     int nummer = 9;
-if
+if was tun
 }
+ffff
