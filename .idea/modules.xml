@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../SWP_Java/Java/Java.iml" filepath="$PROJECT_DIR$/../SWP_Java/Java/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SWP_Java/Java3aWI/Java3aWI.iml" filepath="$PROJECT_DIR$/../SWP_Java/Java3aWI/Java3aWI.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SWP _2awi.iml" filepath="$PROJECT_DIR$/.idea/SWP _2awi.iml" />
     </modules>
   </component>
